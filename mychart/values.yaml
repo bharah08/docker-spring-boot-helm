@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: bharath0812/test:13.0
+  repository: bharath0812/test:14.0
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
